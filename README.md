@@ -1,2 +1,6 @@
 # SVM-Support-Vector-Machine-
 Support Vector Machine (SVM) is a powerful supervised machine learning algorithm used for classification and regression tasks.
+By applying a non-linear mapping, it allows SVMs to find a decision boundary that separates different classes more effectively. In other words, the kernel function measures the similarity or proximity between data points in the transformed feature space.
+The primary objective of an SVM is to find a decision boundary that maximally separates the data points of different classes. This decision boundary is called the "hyperplane" and is represented as a subspace with one dimension less than the original data space. In two dimensions, the hyperplane is a line, while in higher dimensions, it is a hyperplane.
+There are different types of SVMs based on the nature of the classification problem: - Linear SVM,Non-linear SVM,Support Vector Regression (SVR)
+SVMs offer several advantages: SVMs are effective in high-dimensional spaces and can handle datasets with a large number of features, They have a solid mathematical foundation and are less prone to overfitting, The use of the margin allows SVMs to be robust against outliers,Through the kernel trick, SVMs can capture non-linear relationships in the data.
